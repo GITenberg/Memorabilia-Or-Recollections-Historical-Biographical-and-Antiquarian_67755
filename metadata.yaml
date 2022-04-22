@@ -1,11 +1,16 @@
 _repo: Memorabilia-Or-Recollections-Historical-Biographical-and-Antiquarian_67755
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67755-h/images/cover.jpg
 creator:
   author:
     agent_name: Savage, James
     gutenberg_agent_id: '54441'
     url: http://www.gutenberg.org/2009/agents/54441
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67755#Memorabilia-Or-Recollections-Historical-Biographical-and-Antiquarian
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67755'
